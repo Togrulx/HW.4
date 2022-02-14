@@ -1,0 +1,13 @@
+/Users/togrultalibov/Desktop/HW.4/Hw4.cs/Hw4.cs/obj/Debug/netcoreapp3.1/Hw4.cs.csproj.AssemblyReference.cache
+/Users/togrultalibov/Desktop/HW.4/Hw4.cs/Hw4.cs/obj/Debug/netcoreapp3.1/Hw4.cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/togrultalibov/Desktop/HW.4/Hw4.cs/Hw4.cs/obj/Debug/netcoreapp3.1/Hw4.cs.AssemblyInfoInputs.cache
+/Users/togrultalibov/Desktop/HW.4/Hw4.cs/Hw4.cs/obj/Debug/netcoreapp3.1/Hw4.cs.AssemblyInfo.cs
+/Users/togrultalibov/Desktop/HW.4/Hw4.cs/Hw4.cs/obj/Debug/netcoreapp3.1/Hw4.cs.csproj.CoreCompileInputs.cache
+/Users/togrultalibov/Desktop/HW.4/Hw4.cs/Hw4.cs/bin/Debug/netcoreapp3.1/Hw4.cs.deps.json
+/Users/togrultalibov/Desktop/HW.4/Hw4.cs/Hw4.cs/bin/Debug/netcoreapp3.1/Hw4.cs.runtimeconfig.json
+/Users/togrultalibov/Desktop/HW.4/Hw4.cs/Hw4.cs/bin/Debug/netcoreapp3.1/Hw4.cs.runtimeconfig.dev.json
+/Users/togrultalibov/Desktop/HW.4/Hw4.cs/Hw4.cs/bin/Debug/netcoreapp3.1/Hw4.cs.dll
+/Users/togrultalibov/Desktop/HW.4/Hw4.cs/Hw4.cs/bin/Debug/netcoreapp3.1/Hw4.cs.pdb
+/Users/togrultalibov/Desktop/HW.4/Hw4.cs/Hw4.cs/obj/Debug/netcoreapp3.1/Hw4.cs.dll
+/Users/togrultalibov/Desktop/HW.4/Hw4.cs/Hw4.cs/obj/Debug/netcoreapp3.1/Hw4.cs.pdb
+/Users/togrultalibov/Desktop/HW.4/Hw4.cs/Hw4.cs/obj/Debug/netcoreapp3.1/Hw4.cs.genruntimeconfig.cache
